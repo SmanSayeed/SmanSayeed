@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GraphQL, AWS, Docker, Prisma**
 
-- 👨‍💻 All of my projects are available at [https://meetsaadman.com](https://meetsaadman.com)
+- 👨‍💻 My portfolio [https://sman.dev](https://sman.dev)
 
 - 💬 Ask me about **React, Next, Express, Nest, Typescript, Docker**
 
