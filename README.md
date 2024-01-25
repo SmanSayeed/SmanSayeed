@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **786saadman@gmail.com**
 
-- 📄 Know about my experiences [https://meetsaadman.com/resume](https://meetsaadman.com/resume)
-
 - ⚡ Fun fact **I code for two minutes, and see its moon to sunlight**
 
 <h3 align="left">Connect with me:</h3>
